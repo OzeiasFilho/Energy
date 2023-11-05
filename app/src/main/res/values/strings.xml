@@ -1,3 +1,9 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Tela001</string>
+=======
+    <string name="app_name">Tela Login</string>
+    <string name="entrar">Entrar</string>
+    <string name="todo">TODO</string>
+>>>>>>> d02b940be7debe00d9292d0c1bcf593b6a5a5565
 </resources>

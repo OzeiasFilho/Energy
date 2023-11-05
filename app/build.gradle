@@ -6,7 +6,11 @@ android {
     compileSdk 31
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.example.tela001"
+=======
+        applicationId "com.example.telalogin"
+>>>>>>> d02b940be7debe00d9292d0c1bcf593b6a5a5565
         minSdk 21
         targetSdk 31
         versionCode 1

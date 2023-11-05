@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< HEAD
     android:background="#010840"
     tools:context=".MainActivity">
 
@@ -36,5 +37,40 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/aa" />
+=======
+    android:background="#011d36"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="133dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="158dp"
+        android:layout_marginTop="37dp"
+        android:layout_marginEnd="120dp"
+        android:layout_marginBottom="255dp"
+        android:backgroundTint="#011036"
+        android:text="@string/entrar"
+        app:iconTint="#F0FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="239dp"
+        android:layout_height="296dp"
+        android:layout_marginStart="102dp"
+        android:layout_marginTop="96dp"
+        android:layout_marginEnd="71dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/energy"
+        android:contentDescription="@string/todo"
+        tools:ignore="ContentDescription" />
+>>>>>>> d02b940be7debe00d9292d0c1bcf593b6a5a5565
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+<<<<<<< HEAD
         <entry key="..\:/Users/202108187704/AndroidStudioProjects/Tela001/app/src/main/res/layout/activity_main.xml" value="0.21" />
         <entry key="..\:/Users/202108187704/AndroidStudioProjects/Tela001/app/src/main/res/layout/activity_tela02.xml" value="0.13854166666666667" />
+=======
+        <entry key="..\:/Users/202108187704/AndroidStudioProjects/TelaLogin/app/src/main/res/layout/activity_main.xml" value="0.22" />
+>>>>>>> d02b940be7debe00d9292d0c1bcf593b6a5a5565
       </map>
     </option>
   </component>

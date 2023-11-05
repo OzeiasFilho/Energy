@@ -12,5 +12,9 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+<<<<<<< HEAD
 rootProject.name = "Tela001"
+=======
+rootProject.name = "Tela Login"
+>>>>>>> d02b940be7debe00d9292d0c1bcf593b6a5a5565
 include ':app'
